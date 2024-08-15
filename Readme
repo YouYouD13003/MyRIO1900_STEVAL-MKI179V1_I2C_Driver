@@ -1,0 +1,17 @@
+ABBES Ayoub FPGA project 
+
+in this repository you'll find the FPGA project , you should only take into consideration the vi's and subvi's labeled as ''version final fpga project'' . 
+Moreover ,  It's important to note that 'read 4 bytes.vi' and 'read data subvi' are outdated and should be ignored. 
+Instead, use 'read 4bytes(SubVI)' and 'read data 1 (SubVI)' which are the updated versions included in this project. 
+
+You'll also find in a comprehensive report in PDF format.
+
+If you have any questions or encounter any problems, please don't hesitate to reach out to me at ayoub.abbes@isen.yncrea.fr
+
+
+
+Just a Friendly remainder :
+please only consider the following Vi's and Subvi's for version final fpga project: 
+start condition (SubVI) ,stop condtion (SubVI),  adresse + W  , adress + Read bit (SubVI) ,
+ack (SubVI) , adress register (SubVI) , Nack (SubVI)  , read 4bytes(SubVI)   , read data 1  (SubVI) , read dummy register accelerometer , 
+read dummy register magnetometer , read accelerometer values  ,read magnetometer values .

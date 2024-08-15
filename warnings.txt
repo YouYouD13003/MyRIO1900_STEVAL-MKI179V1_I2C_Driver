@@ -1,0 +1,17 @@
+D:\M1\fpga project stable version ( not final)\fpga project stable.lvproj (fpga project stable.lvproj)
+    - The VI expected to be at "D:\M1\adress + Read bit (SubVI).vi" was loaded from "D:\M1\fpga project stable version ( not final)\adress + Read bit (SubVI).vi".
+    - The VI expected to be at "D:\M1\Nack (SubVI).vi" was loaded from "D:\M1\fpga project stable version ( not final)\Nack (SubVI).vi".
+    - The VI expected to be at "D:\M1\read data 1  (SubVI).vi" was loaded from "D:\M1\fpga project stable version ( not final)\read data 1  (SubVI).vi".
+    - The VI expected to be at "D:\M1\stop condtion (SubVI).vi" was loaded from "D:\M1\fpga project stable version ( not final)\stop condtion (SubVI).vi".
+    - The VI expected to be at "D:\M1\adresse + W.vi" was loaded from "D:\M1\fpga project stable version ( not final)\adresse + W.vi".
+    - The VI expected to be at "D:\M1\adress register (SubVI).vi" was loaded from "D:\M1\fpga project stable version ( not final)\adress register (SubVI).vi".
+    - The VI expected to be at "D:\M1\ack (SubVI).vi" was loaded from "D:\M1\fpga project stable version ( not final)\ack (SubVI).vi".
+D:\M1\fpga project stable version ( not final)\read dummy register magnetometer.vi (read dummy register magnetometer.vi)
+    - The VI expected to be at "D:\M1\stop condtion (SubVI).vi" was loaded from "D:\M1\fpga project stable version ( not final)\stop condtion (SubVI).vi".
+    - The VI expected to be at "D:\M1\adress register (SubVI).vi" was loaded from "D:\M1\fpga project stable version ( not final)\adress register (SubVI).vi".
+    - The VI expected to be at "D:\M1\ack (SubVI).vi" was loaded from "D:\M1\fpga project stable version ( not final)\ack (SubVI).vi".
+    - The VI expected to be at "D:\M1\adress + Read bit (SubVI).vi" was loaded from "D:\M1\fpga project stable version ( not final)\adress + Read bit (SubVI).vi".
+    - The VI expected to be at "D:\M1\read data 1  (SubVI).vi" was loaded from "D:\M1\fpga project stable version ( not final)\read data 1  (SubVI).vi".
+    - The VI expected to be at "D:\M1\Nack (SubVI).vi" was loaded from "D:\M1\fpga project stable version ( not final)\Nack (SubVI).vi".
+    - The VI expected to be at "D:\M1\start condition (SubVI).vi" was loaded from "D:\M1\fpga project stable version ( not final)\start condition (SubVI).vi".
+    - The VI expected to be at "D:\M1\adresse + W.vi" was loaded from "D:\M1\fpga project stable version ( not final)\adresse + W.vi".
