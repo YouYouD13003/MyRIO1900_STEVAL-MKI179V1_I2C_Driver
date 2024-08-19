@@ -1,4 +1,4 @@
-# MyRio_I2C_Driver
+# MyRio_STEVAL-MKI179V1_I2C_Driver
 
 LabVIEW FPGA Project - I2C Communication with Accelerometer and Magnetometer
 This project demonstrates the development and implementation of an I2C communication system using LabVIEW FPGA, interfacing with an accelerometer and a magnetometer via a myRIO-1900. The primary focus is on reading sensor data, including accelerometer and magnetometer values, by managing the I2C communication protocol effectively.
